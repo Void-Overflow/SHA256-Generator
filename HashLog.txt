@@ -1,0 +1,6 @@
+//This is where all the hashes are recorded.
+TEXT || SHA256 EQUIVILANT
+--------------------------
+--------------------------
+howdy||0f1128046248f83dc9b9ab187e16fad0ff596128f1524d05a9a77c4ad932f10a
+--------------------------
